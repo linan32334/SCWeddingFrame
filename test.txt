@@ -1,3 +1,3 @@
 {
-  "ios": "bug",
+  "ios": "https://www.baidu.com/",
 }
